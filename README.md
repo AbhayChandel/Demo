@@ -1,5 +1,5 @@
 #First line in the project
 
-#I WILL ALSO CAUSE TROUBLE
+#This should cause trouble
 
 #This is a new feature 01
